@@ -1,4 +1,4 @@
-# Hey Guys, bem vindos ao meu perfil!!! Eu sou o Marcus Souza
+# Olá, sejam bem vindos ao meu perfil! Eu sou o Marcus Souza
 
 Atualmente sou Estudante de Sistemas de Informação do 3° Período, desde muito cedo sempre fui apaixonado por tecnologia, programação e resolução de problemas.
 
@@ -13,7 +13,7 @@ Atualmente atuo na área de suporte e infraestrutura de TI, enquanto desenvolvo 
 </p>
 
 ---
-## ## 📊 Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -31,10 +31,8 @@ Atualmente atuo na área de suporte e infraestrutura de TI, enquanto desenvolvo 
 
 ---
 
-## 🐍 Contribuições
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcussouzax/marcussouzax/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/marcussouzax/marcussouzax/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 
