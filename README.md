@@ -13,6 +13,30 @@ Atualmente atuo na área de suporte e infraestrutura de TI, enquanto desenvolvo 
 </p>
 
 ---
+## ## 📊 Estatísticas
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats-two-omega-43.vercel.app/api?username=marcussouzax&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=marcussouzax&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcussouzax/marcussouzax/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 
 ### 📫 Contato
 
