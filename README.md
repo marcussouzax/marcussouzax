@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey Guys, bem vindos ao meu perfil!!! Eu sou o Marcus Souza
 
-<!--
-**marcussouzax/marcussouzax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou Estudante de Sistemas de Informação do 3° Período, desde muito cedo sempre fui apaixonado por tecnologia, programação e resolução de problemas.
 
-Here are some ideas to get you started:
+Atualmente atuo na área de suporte e infraestrutura de TI, enquanto desenvolvo minhas habilidades em desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,javascript,react,linux" />
+</p>
+
+---
+
+### 📫 Contato
+
+- gmail: contatomarcus.souza77@gmail.com
+- LinkedIn: www.linkedin.com/in/marcus-souza-b2b831312
