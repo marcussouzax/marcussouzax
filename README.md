@@ -1,9 +1,8 @@
-# Olá, sejam bem-vindos ao meu perfil! Eu sou o Marcus Souza 👋
+# Olá, sejam bem-vindos ao meu perfil! Eu sou o Marcus Souza 
 
-Atualmente sou estudante de Sistemas de Informação, apaixonado por tecnologia, programação e resolução de problemas.
+Atualmente sou Estudante de Sistemas de Informação do 3° Período, desde muito cedo sempre fui apaixonado por tecnologia, programação e resolução de problemas.
 
-Atualmente atuo na área de suporte e infraestrutura de TI, enquanto desenvolvo minhas habilidades em desenvolvimento de software.
-
+Atuo na área de suporte e infraestrutura de TI em uma empresa do setor público, enquanto desenvolvo minhas habilidades em desenvolvimento de software
 ---
 
 ## 🚀 Tecnologias
@@ -39,5 +38,3 @@ Atualmente atuo na área de suporte e infraestrutura de TI, enquanto desenvolvo 
 - LinkedIn: www.linkedin.com/in/marcus-souza-b2b831312
 
 ---
-
-⭐ Sempre buscando aprender novas tecnologias e evoluir como profissional de TI.
