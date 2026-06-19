@@ -8,7 +8,7 @@ Atuo na área de suporte e infraestrutura de TI em uma empresa do setor público
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,linux,git,sapabap" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,linux,git" />
 </p>
 
 ---
