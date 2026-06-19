@@ -20,7 +20,7 @@ Atualmente atuo na área de suporte e infraestrutura de TI, enquanto desenvolvo 
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=marcussouzax&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=0"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcussouzax&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=1"
 />
 
 <img
