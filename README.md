@@ -1,13 +1,13 @@
 # Olá, sejam bem-vindos ao meu perfil! Eu sou o Marcus Souza 
 
-Atualmente sou Estudante de Sistemas de Informação do 3° Período, desde muito cedo sempre fui apaixonado por tecnologia, programação e resolução de problemas.
+Atualmente sou Estudante de Sistemas de Informação do 4° Período, desde muito cedo sempre fui apaixonado por tecnologia e resolução de problemas.
 
-# Atuo na área de suporte e infraestrutura de TI em uma empresa do setor público, em transição para área de análise de dados
+Atuo na área de suporte e infraestrutura de TI em uma empresa do setor público, em transição para área de análise de dados
 
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,react,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,react,linux,git,aws" />
 </p>
 
 ---
