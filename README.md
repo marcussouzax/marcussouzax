@@ -8,6 +8,7 @@ Atuo na área de suporte e infraestrutura de TI em uma empresa do setor público
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,linux,git,aws,azure" />
+  <img src="https://cdn.simpleicons.org/powerbi/FFFFFF" width="48" height="48" />
 </p>
 
 ---
